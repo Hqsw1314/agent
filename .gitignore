@@ -1,0 +1,17 @@
+
+# Visual Studio
+.vs/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Git
+*.log
